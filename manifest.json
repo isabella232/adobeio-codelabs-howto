@@ -1,16 +1,16 @@
 {
-  "title": "CodeLab title",
-  "repository": "https://github.com/icaraps/aio-codelabs-template",
-  "issues": "https://github.com/icaraps/aio-codelabs-template/issues/new",
-  "summary": "CodeLab summary",
+  "title": "How to Write an Adobe I/O CodeLab",
+  "repository": "https://github.com/AdobeDocs/adobeio-codelabs-howto",
+  "issues": "https://github.com/AdobeDocs/adobeio-codelabs-howto/issues/new",
+  "summary": "In this lab you will learn how to build an Adobe I/O CodeLab.",
   "navigation": [{
-    "title": "Lesson 1",
+    "title": "Lesson 1: Initializing the codelab repository",
     "url": "/lessons/lesson1"
   }, {
-    "title": "Lesson 2",
+    "title": "Lesson 2: Developing codelab content",
     "url": "/lessons/lesson2"
   }, {
-    "title": "Lesson 3",
+    "title": "Lesson 3: Publishing the codelab",
     "url": "/lessons/lesson3"
   }]
 }
