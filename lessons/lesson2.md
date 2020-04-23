@@ -1,4 +1,4 @@
-# Lesson 2: Developing codelab content
+## Lesson 2: Developing codelab content
 
 The codelab is written in markdown, which is used to write READMEs in GitHub repositories. If you are new to it, please visit [this markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).  
 
