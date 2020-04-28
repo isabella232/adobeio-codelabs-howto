@@ -6,7 +6,7 @@ To initialize a codelab repository, you should use the lab template at https://g
 
 ![use-template](assets/use-template.png)
 
-2. Select the owner of the repository, which can be your own GitHub account or an org that you own. Then give it a name and select the ... of the repo. Please note that only public repositories can be displayed on Adobe I/O Codelabs website. Click on the "Create repository from template" button to create the new repository.
+2. Select the owner of the repository, which can be your own GitHub account or an org that you own. Then give it a name and select the repo to be public / private. Please note that only public repositories can be displayed on Adobe I/O Codelabs website. Click on the "Create repository from template" button to create the new repository.
 
 ![name-repo](assets/name-repo.png)
 
