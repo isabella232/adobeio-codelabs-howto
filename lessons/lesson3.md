@@ -13,11 +13,8 @@ In order for your codelab to be available in the Adobe I/O CodeLabs website, ple
     "thumbnail": "<URL of the lab thumbnail, if necessary>",
     "duration": <estimated duration of the lab in minutes>,
     "title": "<lab title>",
-    "description": "<lab description>",
-    "type": "lab"
+    "description": "<lab description>"
   }
 ```
 
-Alternatively, you could send an email to adobeio@adobe.com with some introduction and the above details, and we will take care of publishing the lab for you.  
-
-This is the end of the codelab. We hope you enjoyed it!
+Next: [Well done](/lessons/welldone.md)
