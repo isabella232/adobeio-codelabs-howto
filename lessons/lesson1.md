@@ -1,4 +1,4 @@
-## Lesson 1: Initializing the codelab repository
+## Initializing the codelab repository
 
 To initialize a codelab repository, you should use the lab template at https://github.com/AdobeDocs/adobeio-codelabs-template.
 
@@ -12,4 +12,4 @@ To initialize a codelab repository, you should use the lab template at https://g
 
 3. A new repository of the codelab is then created in the GitHub account of your choice.
 
-[Next](lesson2.md)
+Next: [Developing codelab content](/lessons/lesson2.md)

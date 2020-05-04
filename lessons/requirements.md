@@ -5,6 +5,8 @@ The only pre-requisite is to have a github account. If you don't have an account
 To be able to preview a codelab, we also recommend to:
  
 * Install `npm`. Go to https://www.npmjs.com/get-npm to get npm.
-* Install `hlx`. Go to https://www.project-helix.io/ to get started.  
+* Install `hlx`. Go to https://www.project-helix.io/ to get started.
+
+Next: [Initializing the codelab repository](/lessons/lesson1.md)  
 
  

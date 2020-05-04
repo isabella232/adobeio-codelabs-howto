@@ -1,4 +1,4 @@
-## Lesson 3: Publishing the codelab
+## Publishing the codelab
 
 As mentioned in lesson 2, your codelab is accessible publicly via this URL: `https://<repo-name>-<repo-owner>.project-helix.page`.  
 

@@ -1,4 +1,4 @@
-## Lesson 2: Developing codelab content
+## Developing codelab content
 
 The codelab is written in markdown, which is used to write READMEs in GitHub repositories. If you are new to it, please visit [this markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).  
 
@@ -26,4 +26,4 @@ You will see your codelab running at http://localhost:3000.
 
 When you finish developing the codelab content, commit the changes to GitHub. Then you will be able to access your codelab at: `https://<repo-name>-<repo-owner>.project-helix.page`.
 
-[Next](lesson3.md)
+Next: [Publishing the codelab](/lessons/lesson3.md)
