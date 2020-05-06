@@ -1,4 +1,4 @@
-## Well done
+## Well Done
 
 Congrats! You've just published your codelab to [Adobe I/O Codelabs Website](https://adobedocs.github.io/adobeio-codelabs).  
 
