@@ -17,4 +17,6 @@ In order for your codelab to be available in the Adobe I/O CodeLabs website, ple
   }
 ```
 
-Next: [Well done](/lessons/welldone.md)
+Alternatively, you could send an email to adobeio@adobe.com with some introduction and codelab details as above, and we will take care of publishing it for you.  
+
+[Recap](/lessons/recap.md)
