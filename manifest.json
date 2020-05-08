@@ -4,16 +4,19 @@
   "issues": "https://github.com/AdobeDocs/adobeio-codelabs-howto/issues/new",
   "summary": "In this lab you will learn how to build an Adobe I/O CodeLab.",
   "navigation": [{
+    "title": "Introduction",
+    "url": "/README"
+  }, {
     "title": "Requirements",
     "url": "/lessons/requirements"
-  },{
-    "title": "Initializing the codelab repository",
+  }, {
+    "title": "Lesson 1: Initializing the codelab repository",
     "url": "/lessons/lesson1"
   }, {
-    "title": "Developing codelab content",
+    "title": "Lesson 2: Developing codelab content",
     "url": "/lessons/lesson2"
   }, {
-    "title": "Publishing the codelab",
+    "title": "Lesson 3: Publishing the codelab",
     "url": "/lessons/lesson3"
   }, {
     "title": "Well Done",
