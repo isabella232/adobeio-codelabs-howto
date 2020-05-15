@@ -9,4 +9,3 @@ To be able to preview a codelab, we also recommend to:
 
 Next: [Initializing the codelab repository](/lessons/lesson1.md)  
 
- 

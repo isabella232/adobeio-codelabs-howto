@@ -5,21 +5,27 @@
   "summary": "In this lab you will learn how to build an Adobe I/O CodeLab.",
   "navigation": [{
     "title": "Introduction",
-    "url": "/README"
+    "url": "/README",
+    "duration": 1
   }, {
     "title": "Requirements",
-    "url": "/lessons/requirements"
+    "url": "/lessons/requirements",
+    "duration": 5
   }, {
-    "title": "Lesson 1: Initializing the codelab repository",
-    "url": "/lessons/lesson1"
+    "title": "Lesson 1: Initializing Codelab Repository",
+    "url": "/lessons/lesson1",
+    "duration": 5
   }, {
-    "title": "Lesson 2: Developing codelab content",
-    "url": "/lessons/lesson2"
+    "title": "Lesson 2: Developing Codelab Content",
+    "url": "/lessons/lesson2",
+    "duration": 8
   }, {
-    "title": "Lesson 3: Publishing the codelab",
-    "url": "/lessons/lesson3"
+    "title": "Lesson 3: Publishing the Codelab",
+    "url": "/lessons/lesson3",
+    "duration": 5
   }, {
     "title": "Well Done",
-    "url": "/lessons/welldone"
+    "url": "/lessons/welldone",
+    "duration": 1
   }]
 }
